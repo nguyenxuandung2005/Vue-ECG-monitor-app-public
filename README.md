@@ -27,3 +27,5 @@ Vue ECG Monitor App with modular workflow for monitoring, patient lookup, sessio
 
 - Build guide (Vietnamese): `docs/ECG_BUILD_GUIDE.vi.md`
 - Naming conventions (Vietnamese): `docs/NAMING_CONVENTIONS.vi.md`
+- Firebase API update guide (Vietnamese): `docs/FIREBASE_API_UPDATE_GUIDE.vi.md`
+- Git push beginner guide (Vietnamese): `docs/GIT_PUSH_BEGINNER_GUIDE.vi.md`
